@@ -31,7 +31,7 @@ This website has 5 pages:
   
 `github.io` means that there is a Github repo behind this website, and we also know the username and repo name:
 
-**<http://jules32.github.io/rmarkdown-website-tutorial>** <=> **<https://github.com/jules32/rmarkdown-website-tutorial>** 
+**<http://yeroslaviz.github.io/rmarkdown-website-tutorial>** <=> **<https://github.com/yeroslaviz/rmarkdown-website-tutorial>** 
 
 (Note: you can have github websites point to different urls if you don't want the `github.io`.)
 
@@ -39,7 +39,7 @@ This website has 5 pages:
 
 ### The website's repo
 
-Let's go to **<https://github.com/jules32/rmarkdown-website-tutorial>**.  
+Let's go to **<https://github.com/yeroslaviz/rmarkdown-website-tutorial>**.  
   
 **First, note the `gh-pages` branch** - this is critical for building free webpages. You can usually name branches whatever you want, but the `gh-pages` name means it can be built as a website. [I set it as my default branch](https://help.github.com/articles/setting-the-default-branch/).
 
